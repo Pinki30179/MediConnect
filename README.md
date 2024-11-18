@@ -5,8 +5,8 @@ Doctor Appoinmenet Booking System
 Design a user-friendly web app for patients to search for doctors by specialty, book appoinmenets, and receive appoinment remainders. Include secure patient-doctor communication and admin panel for doctors to manage schedules.
 
 ## Technology
-Frontend : React
-Database : MySql
+Frontend : React \n
+Database : MySql \n
 Backend : laravel (PHP)
 
 
